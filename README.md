@@ -34,12 +34,9 @@
 
 РЕШЕНИЕ:
 Cсылка на проект:
-- Тест-план: https://kuzhelnaya.atlassian.net/wiki/spaces/~632e2aedf568615bdc7d31f0/pages/edit-v2/1507329
-Логин: tassy@mail.ru 
-Пароль: Scotland13
+- Тест-план: https://kuzhelnaya.atlassian.net/wiki/spaces/~632e2aedf568615bdc7d31f0/pages/edit-v2/150732
 - Тест-кейсы в QASE IO: https://app.qase.io/project/K2K?case=9&previewMode=side&suite=3
-Логин: tassy@mail.ru 
-Пароль: 13Scotland13*
+
 - Декомпозиция: https://miro.com/app/board/uXjVPDOagRA=/?share_link_id=157309727867
 
 Были проведены следующие виды тестирования:
