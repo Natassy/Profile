@@ -34,7 +34,7 @@
 
 РЕШЕНИЕ:
 Cсылка на проект:
-- Тест-план: https://kuzhelnaya.atlassian.net/wiki/spaces/~632e2aedf568615bdc7d31f0/pages/edit-v2/150732
+- Тест-план: https://kuzhelnaya.atlassian.net/l/cp/92Fz2ij2
 - Тест-кейсы в QASE IO: https://app.qase.io/project/K2K?case=9&previewMode=side&suite=3
 
 - Декомпозиция: https://miro.com/app/board/uXjVPDOagRA=/?share_link_id=157309727867
